@@ -1,6 +1,4 @@
-Aqui está uma sugestão de README para o seu projeto **TinyBook-api**, estruturado com base nas tecnologias que identifiquei no seu repositório (Java, Spring Boot e PostgreSQL).
 
----
 
 # TinyBook API
 
